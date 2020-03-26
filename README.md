@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-<img src="http://luisrochadev.com/assets/img/logo.png" width="250"/>
+<img src="https://peppegr/github.io/img/Logo.png" width="250"/>
 </p>
 
 
