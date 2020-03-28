@@ -16,14 +16,14 @@ body {
 
 button {
   height: 40px;
-  width: 200px;
+  width: 000px;
   margin: 10px auto 10px;
   background: #ffff;
   font-size: 0.8125rem;
   color: #000;
   cursor: pointer;
   border-color: transparent;
-  border-style: inset;
+  border-style: none;
   font-family: 'Monserrat', sans-serif;
   font-weight: 600;
   padding: 32px 16px;
