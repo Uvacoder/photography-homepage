@@ -18,14 +18,15 @@ button {
   height: 40px;
   width: 100px;
   margin: 10px auto 10px;
-  background: #000;
+  background: #ffff;
   font-size: 0.8125rem;
-  color: #ffff;
+  color: #000;
   cursor: pointer;
   border-color: transparent;
   border-style: inset;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Monserrat', sans-serif;
   font-weight: 600;
+  padding: 32px 16px;
 }
 
 button:focus {
