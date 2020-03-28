@@ -1,6 +1,6 @@
 /* force scrollbar */
 html {
-  overflow-y: scroll; 
+  overflow-y: scroll;
 }
 
 
@@ -14,28 +14,17 @@ body {
 
 
 
-button {
-  height: 40px;
-  width: 150px;
-  margin: 50px auto 50px;
-  background: #ffff;
-  font-size: 0.8125rem;
+.btn-group .button {
+  background-color: #ffff;
   color: #363b46;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
   cursor: pointer;
-  border-color: transparent;
-  border-style: none;
-  font-family: 'Monserrat', sans-serif;
-  font-weight: 600;
- 
-}
-
-button:focus {
-	background-color: #ffff;
-	color: #ff3644
-}
-
-button:hover {
-	color: #9c9c9c;
+  float: left;
+  border: none;
 }
 
 /*.button {
@@ -66,7 +55,7 @@ p {
 .social > a {
   padding: 5px;
   color: #000;
-  margin: 
+  margin:
 }
 .social > a:hover {
 	color: #9c9c9c;
