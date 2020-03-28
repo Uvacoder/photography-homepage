@@ -18,25 +18,22 @@ button {
   height: 40px;
   width: 100px;
   margin: 10px auto 10px;
-  background-color: #ffff;
+  background: #000;
+  font-size: 0.8125rem;
+  color: #fff;
+  cursor: pointer;
   border-color: transparent;
   border-style: inset;
-  color: #363b46;
-  padding: 32px 16px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 0.8125rem;
-  font-family: 'Monserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 600;
-  margin: 4px 2px;
-  cursor: pointer;
-  float: left;
+}
+
+button:focus {
+	background-color: #000;
 }
 
 button:hover {
-  background-color: #ffff;
-  color: #ff3644;
+	color: #9c9c9c;
 }
 
 /*.button {
