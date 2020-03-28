@@ -12,7 +12,29 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+button {
+  height: 40px;
+  width: 100px;
+  margin: 10px auto 10px;
+  background: #ffff;
+  font-size: 0.8125rem;
+  color: #363b46;
+  cursor: pointer;
+  border-color: transparent;
+  border-style: none;
+  font-family: 'Monserrat', sans-serif;
+  font-weight: 600;
 
+}
+
+button:focus {
+	background-color: #ffff;
+	color: #ff3644
+}
+
+button:hover {
+	color: #9c9c9c;
+}
 
 .btn-group .button {
   background-color: #ffff;
