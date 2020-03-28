@@ -20,7 +20,7 @@ button {
   margin: 50px auto 50px;
   background: #ffff;
   font-size: 0.8125rem;
-  color: #000;
+  color: #363b46;
   cursor: pointer;
   border-color: transparent;
   border-style: none;
@@ -31,6 +31,7 @@ button {
 
 button:focus {
 	background-color: #ffff;
+	color: #ff3644
 }
 
 button:hover {
