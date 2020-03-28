@@ -13,6 +13,9 @@ body {
 }
 
 button {
+  height: 40px;
+  width: 100px;
+  margin: 10px auto 10px;
   background-color: #ffff;
   border: transparent;
   color: #363b46;
