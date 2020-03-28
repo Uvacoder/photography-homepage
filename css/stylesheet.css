@@ -12,12 +12,15 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+
+
 button {
   height: 40px;
   width: 100px;
   margin: 10px auto 10px;
   background-color: #ffff;
-  border: transparent;
+  border-color: transparent;
+  border-style: inset;
   color: #363b46;
   padding: 32px 16px;
   text-align: center;
