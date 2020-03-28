@@ -16,7 +16,7 @@ body {
 
 button {
   height: 40px;
-  width: 100px;
+  width: 100%;
   margin: 50px auto 50px;
   background: #ffff;
   font-size: 0.8125rem;
