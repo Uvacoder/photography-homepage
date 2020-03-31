@@ -16,8 +16,8 @@ body {
 
 button {
   height: 40px;
-  width: 150px;
-  margin-right: auto;
+  width: 5%;
+  margin: 5px;
   background: #ffffff;
   font-size: 0.8125rem;
   color: #363b46;
