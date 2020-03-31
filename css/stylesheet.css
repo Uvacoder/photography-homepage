@@ -17,13 +17,12 @@ body {
 button {
   height: 40px;
   width: 150px;
-  margin-right: 5px;   
+  margin-right: auto;
   background: #ffffff;
   font-size: 0.8125rem;
   color: #363b46;
   cursor: pointer;
   display: inline-block;
-
   border-color: transparent;
   border-style: inset;
   font-family: 'Montserrat', sans-serif;
