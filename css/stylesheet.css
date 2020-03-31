@@ -24,7 +24,7 @@ button {
   cursor: pointer;
   border-color: transparent;
   border-style: inset;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 600;
 }
 
@@ -43,11 +43,11 @@ button:hover {
 
 h4,
 h5{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 p {
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Montserrat', serif;
 }
 
 .brand-name {
@@ -67,7 +67,7 @@ p {
   margin:
 }
 .social > a:hover {
-	color: #9c9c9c;
+	color: #ff3644;
 }
 
 
