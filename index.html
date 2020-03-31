@@ -135,12 +135,12 @@ MADE BY LUIS ROCHA @ LUISROCHADEV.COM  -->
 <script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
 <script src="js/init.js"></script>
 <script src="js/lightbox.js"></script>
-document.addEventListener("contextmenu", function(e){
-    if (e.target.nodeName === "IMG") {
-        e.preventDefault();
-    }
-}, false);
-
+<script type='text/javascript'>//<![CDATA[
+$(function(){
+$('img').bind('contextmenu', function(e){
+return false;
+});
+});//]]>
 
 
 
