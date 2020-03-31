@@ -70,6 +70,9 @@ p {
 	color: #ff3644;
 }
 
+img:hover {
+  opacity: 0.6;
+}
 
 /* clear fix */
 .grid:after {
