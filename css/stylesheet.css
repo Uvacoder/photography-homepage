@@ -17,9 +17,9 @@ body {
 button {
   height: 40px;
   width: 5%;
-  margin: 5px;
+  margin: 10px;
   background: #ffffff;
-  font-size: 0.8125rem;
+  font-size: 100%;
   color: #363b46;
   cursor: pointer;
   display: inline-block;
