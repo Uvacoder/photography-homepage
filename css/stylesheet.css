@@ -29,7 +29,7 @@ button {
 }
 
 button:focus {
-	background-color: #000;
+	background-color: #ffffff;
 }
 
 button:hover {
