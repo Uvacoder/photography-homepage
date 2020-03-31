@@ -21,7 +21,7 @@
 
 ## Demo
 <div align="center">
-  <img src="http://i.imgur.com/NN2MDYj.jpg"/>
+  <img src="http://peppegr.github.io"/>
 </div>
 
 
