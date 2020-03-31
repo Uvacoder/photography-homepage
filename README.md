@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-<img src="https://peppegr/github.io/img/Logo.png" width="250"/>
+<img src="https://peppegr/github.io/img/logo-desktop.png" width="250"/>
 </p>
 
 
@@ -15,7 +15,7 @@
 
 * 💪 <strong>Powerful: </strong> Optimized front-end performance and focused on SEO.
 
-* 📱 <strong>Responsive: </strong> Made for a beautiful experience across all devices using [Materialize](http://materializecss.com/). 
+* 📱 <strong>Responsive: </strong> Made for a beautiful experience across all devices using [Materialize](http://materializecss.com/).
 
 * 🎉 <strong>Live: </strong> Deployed with [GitHub Pages](https://pages.github.com/) fo free!
 
@@ -31,4 +31,3 @@
 - [ ] Full redesign with strogner focus on SEO
 - [ ] Re-write image filtering based on Angular
 - [ ] Sort out image pre-loding for optimized performance
-
