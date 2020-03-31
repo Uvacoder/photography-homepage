@@ -7,7 +7,7 @@ $(document).ready( function() {
   });
 
   $(".button-collapse").sideNav();
-  
+
 
 
   // randomize order of images
@@ -18,15 +18,15 @@ $(document).ready( function() {
         parent.append(divs.splice(Math.floor(Math.random() * divs.length), 1)[0]);
     }
 
-  // // image hover effect  
+  // // image hover effect
   // $(function() {
-  //   $('.grid-item').hover(function() { 
+  //   $('.grid-item').hover(function() {
   //     $(this).css("opacity", "0.85");
   //   }, function(){
   //     $(this).css("opacity", "1");
   //   });
   // });
-    
+
   // bind filter button click
   $('.filters-button-group').on( 'click', '.button', function() {
     var filterValue = $( this ).attr('data-filter');
@@ -41,7 +41,7 @@ $(document).ready( function() {
       $buttonGroup.find('.is-checked').removeClass('is-checked');
       $( this ).addClass('is-checked');
     });
-  }); 
+  });
 
   // init Isotope
   var $grid = $('.grid').isotope({
@@ -54,7 +54,7 @@ $(document).ready( function() {
   // layout Isotope after each image loads
  $grid.imagesLoaded().progress( function() {
     $grid.isotope('layout');
-  });  
+  });
 
 
 
