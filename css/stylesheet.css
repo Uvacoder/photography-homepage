@@ -16,7 +16,7 @@ body {
 
 .btn-group .button {
   background-color: #ffffff;
-  border: none;
+  border: #ffffff;
   color: #363b46;
   padding: 15px 32px;
   text-align: center;
