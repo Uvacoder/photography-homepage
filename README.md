@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-<img src="https://peppegr/github.io/img/logo-desktop.png" width="250"/>
+<img src="img/logo-desktop.png" width="250"/>
 </p>
 
 
