@@ -22,7 +22,8 @@ button {
   font-size: 0.8125rem;
   color: #363b46;
   cursor: pointer;
-  display: inline;
+  display: inline-block;
+  margin-right: 20px;   
   border-color: transparent;
   border-style: inset;
   font-family: 'Montserrat', sans-serif;
