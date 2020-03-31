@@ -27,11 +27,11 @@ body {
   float: left;
 }
 
-.btn-group .button:focus {
+.button:focus {
   background-color: #ffffff;
 }
 
-.btn-group .button:hover {
+.button:hover {
   color: #ff3644;
   text-decoration: underline;
 }
