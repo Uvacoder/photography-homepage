@@ -26,7 +26,8 @@ body {
   list-style-type: none;
   text-align: center;
   margin: 0;
-  padding: 0;
+  padding: 12px 28px;
+  float: left;
 }
 
 .button:focus {
