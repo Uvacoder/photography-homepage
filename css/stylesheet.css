@@ -15,15 +15,18 @@ body {
 .button {
   height: 40px;
   width: 100px;
-  margin: 10px auto 10px;
-  background-color: #363b46;
+  background-color: #ffffff;
   font-size: 0.8125rem;
-  color: #ffffff;
+  color: #363b46;
   cursor: pointer;
   border-color: transparent;
   border-style: inset;
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
 }
 
 .button:focus {
