@@ -35,6 +35,11 @@ body {
   text-decoration: underline;
 }
 
+.button:active {
+  color: #ff3644;
+  text-decoration: underline;
+}
+
 /*.button {
 	margin-top: 10px;
 	margin-bottom: 10px;
