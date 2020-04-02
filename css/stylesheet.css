@@ -13,20 +13,15 @@ body {
 }
 
 .button {
-  height: 40px;
-  width: 100px;
   background-color: #ffffff;
-  font-size: 0.8125rem;
+  border: none;
   color: #363b46;
-  cursor: pointer;
-  border-color: transparent;
-  border-style: inset;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 600;
-  list-style-type: none;
+  padding: 15px 32px;
   text-align: center;
-  margin: 0;
-  padding: 12px 28px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 0.9rem;
+  cursor: pointer;
   float: left;
 }
 
