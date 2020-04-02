@@ -13,6 +13,7 @@ body {
 }
 
 .button {
+  height: 40px;
   background-color: #ffffff;
   border: none;
   margin: 10px auto 10px;
