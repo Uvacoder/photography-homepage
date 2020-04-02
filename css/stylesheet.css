@@ -15,7 +15,7 @@ body {
 .button {
   height: 40px;
   width: 100px;
-  margin: 10px auto 10px;
+  margin: 10px;
   background-color: #ffffff;
   font-size: 0.8125rem;
   color: #363b46;
@@ -23,6 +23,11 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
 }
+.button1 {
+  margin-bottom: 20px;
+  
+}
+
 
 .button:focus {
   background-color: #ffffff;
