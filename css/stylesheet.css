@@ -69,6 +69,10 @@ p {
 	color: #ff3644;
 }
 
+img {
+  border-radius: 18px;
+}
+
 img:hover {
   opacity: 0.6;
   color: #ff3644;
