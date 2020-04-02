@@ -17,10 +17,10 @@ body {
   width: 100px;
   margin: 10px auto 10px;
   background: #ffffff;
-  border: none;
   font-size: 0.8125rem;
   color: #363b46;
   cursor: pointer;
+  border: none;
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
 }
