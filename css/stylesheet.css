@@ -22,7 +22,6 @@ body {
   cursor: pointer;
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
-  float: left;
 }
 
 .button:focus {
@@ -86,7 +85,7 @@ img:hover {
 
 .grid-item img {
   display: block;
-  max-width: 50%;
+  max-width: 100%;
   padding: 1%;
 }
 
