@@ -50,12 +50,13 @@ body {
     cursor: pointer;
     position: fixed;
     bottom: 50px;
-    right: 0;
+    right: 30px;
     background-color: #363b46;
-    color: #555;
+    color: #ffffff;
     text-align: center;
     font-size: 30px;
     text-decoration: none;
+    border-radius: 50%;
 }
 #back2Top:hover {
     background-color: #ff3644;
