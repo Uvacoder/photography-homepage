@@ -14,15 +14,14 @@ body {
 
 .button {
   height: 40px;
-  background-color: #ffffff;
-  border: none;
+  width: 100px;
   margin: 10px auto 10px;
+  background-color: #ffffff;
+  font-size: 0.8125rem;
   color: #363b46;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 0.9rem;
   cursor: pointer;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
   float: left;
 }
 
