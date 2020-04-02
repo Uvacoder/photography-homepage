@@ -45,7 +45,7 @@
 
 
 
-  <div class="button-group filters-button-group hide-on-med-and-down">
+  <div id="myDIV" class="button-group filters-button-group hide-on-med-and-down">
     <button class="button" data-filter="*">VEDI TUTTO</button>
     <button class="button" data-filter=".paesaggi">PAESAGGI</button>
     <button class="button" data-filter=".luoghi">LUOGHI</button>
@@ -105,7 +105,7 @@
 
 <script>
 // Add active class to the current button (highlight it)
-var header = document.getElementsByClassName"button-group filters-button-group hide-on-med-and-down");
+var header = document.getElementById("myDIV");
 var btns = header.getElementsByClassName("button");
 for (var i = 0; i < btns.length; i++) {
   btns[i].addEventListener("click", function() {
