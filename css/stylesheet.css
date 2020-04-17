@@ -19,6 +19,7 @@ body {
   background: #ffffff;
   font-size: 0.8125rem;
   color: #363b46;
+  display: block;
   cursor: pointer;
   border: none;
   font-family: 'Montserrat', sans-serif;
