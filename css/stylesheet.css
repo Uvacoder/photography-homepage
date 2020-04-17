@@ -13,9 +13,9 @@ body {
 }
 
 .btn-group button {
-  background-color: #4CAF50; /* Green background */
-  border: 1px solid green; /* Green border */
-  color: white; /* White text */
+  background-color: #ffffff; /* Green background */
+  border: none; /* Green border */
+  color: #363b46; /* White text */
   padding: 10px 24px; /* Some padding */
   cursor: pointer; /* Pointer/hand icon */
   float: left; /* Float the buttons side by side */
@@ -34,7 +34,8 @@ body {
 
 /* Add a background color on hover */
 .btn-group button:hover {
-  background-color: #3e8e41;
+  background-color: #ff3644;
+  text-decoration: underline;
 }
 
 
