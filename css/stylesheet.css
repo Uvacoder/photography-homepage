@@ -16,23 +16,24 @@ body {
   height: 40px;
   width: 100px;
   margin: 10px auto 10px;
-  background: #ffffff;
+  background: #363b46;
   font-size: 0.8125rem;
-  color: #363b46;
+  color: #ffffff;
   cursor: pointer;
-  border: none;
+  border-color: transparent;
+  border-style: inset;
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
 }
 
 
 .button:focus {
-  background-color: #ffffff;
+  background-color: #363b46;
+  color: #ff3644;
 }
 
 .active, .button:hover {
   color: #ff3644;
-  text-decoration: underline;
 }
 
 
