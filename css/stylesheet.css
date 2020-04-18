@@ -16,20 +16,19 @@ body {
   height: 40px;
   width: 100px;
   margin: 10px auto 10px;
-  background: #363b46;
+  background: #ffffff;
   font-size: 0.8125rem;
-  color: #ffffff;
+  color: #363b46;
   cursor: pointer;
-  border-color: transparent;
+  border-color: 2px solid #363b46;
   border-style: inset;
-  border-radius: 10px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
 }
 
 
 .button:focus {
-  background-color: #363b46;
+  background-color: white;
   color: #ff3644;
 }
 
