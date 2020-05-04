@@ -13,8 +13,8 @@ body {
 }
 
 .button {
-  height: 40px;
-  width: 100px;
+  height: 100%;
+  width: 100%;
   margin: 10px auto 10px;
   background: #363b46;
   font-size: 0.8125rem;
