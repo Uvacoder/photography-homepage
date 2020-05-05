@@ -28,7 +28,7 @@ button {
 }
 
 button:focus {
-	background-color: #000;
+	background-color: #363b46;
   color: #ff3644;
 }
 
