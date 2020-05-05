@@ -23,12 +23,13 @@ button {
   border-color: transparent;
   border-style: inset;
   border-radius: 24px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat';
   font-weight: 600;
 }
 
 button:focus {
 	background-color: #000;
+  color: #ff3644;
 }
 
 button:hover {
