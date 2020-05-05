@@ -12,31 +12,27 @@ body {
   font-family: 'Montserrat';
 }
 
-.button {
+button {
   height: 40px;
   width: 100px;
   margin: 10px auto 10px;
-  background: #363b46;
+  background: #000;
   font-size: 0.8125rem;
-  color: #ffffff;
+  color: #fff;
   cursor: pointer;
   border-color: transparent;
   border-style: inset;
-  border-radius: 24px;
-  font-family: 'Montserrat';
+  font-family: 'Open Sans', sans-serif;
   font-weight: 600;
 }
 
-
-.button:focus {
-  background-color: #363b46;
-  color: #ff3644;
+button:focus {
+	background-color: #000;
 }
 
-.active, .button:hover {
-  color: #ff3644;
+button:hover {
+	color: #9c9c9c;
 }
-
 
 /*.button {
 	margin-top: 10px;
