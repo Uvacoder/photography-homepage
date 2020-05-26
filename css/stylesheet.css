@@ -13,18 +13,18 @@ body {
 }
 
 button {
-  height: 40px;
-  width: 100px;
-  margin: 10px auto 10px;
+  position: fixed;
+  z-index: 5;
+  top: 80px;
+  left: 0;
+  bottom: 0;
+  overflow: auto;
+  padding: 10px 20px 0;
   background: #363b46;
-  font-size: 0.8125rem;
-  color: #fff;
-  cursor: pointer;
-  border-color: transparent;
-  border-style: inset;
-  border-radius: 24px;
+  font-size: 12px;
+  line-height: 1.5;
+  display: block;
   font-family: 'Montserrat';
-  font-weight: 600;
 }
 
 button:focus {
