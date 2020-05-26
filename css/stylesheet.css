@@ -17,10 +17,11 @@ button {
   z-index: 5;
   top: 80px;
   left: 0;
+  width: 100%;
   bottom: 0;
+  float: left;
   overflow: auto;
   padding: 10px 20px 0;
-  background: #363b46;
   font-size: 12px;
   line-height: 1.5;
   display: block;
