@@ -13,20 +13,19 @@ body {
 }
 
 button {
-  position: fixed;
-  z-index: 5;
-  top: 80px;
-  left: 0;
-  width: 100%;
-  bottom: 0;
-  float: left;
-  overflow: auto;
-  padding: 10px 20px 0;
-  font-size: 12px;
-  line-height: 1.5;
-  display: block;
+  height: 40px;
+  width: 100px;
+  margin: 10px auto 10px;
+  background: #ffffff;
+  font-size: 0.8125rem;
+  color: #fff;
+  cursor: pointer;
+  border-color: transparent;
+  border-style: inset;
   font-family: 'Montserrat';
+  font-weight: 600;
 }
+
 
 button:focus {
 	background-color: #363b46;
